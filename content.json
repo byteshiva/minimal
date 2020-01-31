@@ -18,5 +18,8 @@
   "pages": [
     { "name": "Blog",     "url": "/",         "visible": true },
     { "name": "Projects", "url": "/projects", "visible": true }
+    { "name": "Skills", "url": "/skills", "visible": true },
+    { "name": "Education", "url": "/education", "visible": false },
+    { "name": "others", "url": "/others", "visible": false }
   ]
 }
